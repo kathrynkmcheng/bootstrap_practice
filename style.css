@@ -1,0 +1,26 @@
+/*fonts*/
+
+.shadow-font, .list-group{
+  font-family: 'Shadows Into Light', cursive;
+}
+
+.row .col-lg-4{
+  margin-top: 25px;
+}
+
+body{
+  font-family: 'Karma', serif;
+}
+
+h1, h4{
+  color: #ffffff;
+  margin-left: 20px;
+  margin-top: 10px;
+}
+
+
+@media screen and (max-width: 576px) {
+  .col-sm-3 {
+        margin-top: 30px;
+  }
+}
